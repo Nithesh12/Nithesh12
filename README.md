@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nithesh12
-- 👀 I’m interested in working c c++ web technologies etc....
+- 👀 Languages I learnt C C++ Python React
 - 🌱 I’m currently learning information science and engineering 
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me mail me @  neethu3926@gmail.com
