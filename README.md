@@ -2,7 +2,7 @@
 - 👀 Languages I learnt C C++ Python React
 - 🌱 I’m currently learning information science and engineering 
 - 💞️ I’m looking to collaborate with startups
-- 📫 How to reach me mail me @  neethu3926@gmail.com
+- 📫 How to reach me mail me @  nitheshb24@gmail.com
 
 <!---
 Nithesh12/Nithesh12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
